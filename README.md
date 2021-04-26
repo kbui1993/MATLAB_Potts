@@ -15,7 +15,7 @@ If you're using this code for your research, please cite Pock et al.'s paper.
 }
 ```
 
-To run a demo, run the following scripts:
+To run a demo, run one of the following scripts:
 1. script1.m
 2. script2.m
 3. script3.m

@@ -20,8 +20,8 @@ To run a demo, run one of the following scripts:
 2. script2.m
 3. script3.m
 
-The general function to apply Potts model to an image is main_pott.m, which asks for the following arguments:
-  -f: image
-  -K: number of partitions/clusters
-  -lambda: fidelity parameter
+The general function to apply Potts model to an image is main_pott.m, which asks for the following arguments:<br />
+  -f: image <br />
+  -K: number of partitions/clusters <br />
+  -lambda: fidelity parameter <br />
   -maxit: maximum number of iterations
